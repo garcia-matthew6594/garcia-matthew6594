@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Matthew (`garcia-matthew6594`)
 
-<!--
-**garcia-matthew6594/garcia-matthew6594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems dev based in Paris. Mostly focused on Rust tooling, low-level OS experiments, and compiling weird things to WebAssembly.
 
-Here are some ideas to get you started:
+#### What I'm into
+- Writing cli tools and network primitives in Rust and C.
+- Exploring WASM runtimes for sandboxed plugin architectures.
+- Linux kernel internals, eBPF, and profiling with `perf`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages:** Rust, C, POSIX Shell
+- **Environments:** Linux, WebAssembly
+- **Tools:** Git, Neovim, gdb, perf, Docker
+
+#### Connect
+- Matrix: `@garcia-m:matrix.org`
+- Email: `matthew.garcia.dev@pm.me`
